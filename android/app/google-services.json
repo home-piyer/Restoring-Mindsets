@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "505358403838",
+    "project_id": "ncc-app-3810c",
+    "storage_bucket": "ncc-app-3810c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505358403838:android:1aa0440fb34a9cc327bdaf",
+        "android_client_info": {
+          "package_name": "com.cfn.ncc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505358403838-694pikronr6p3k1l022mil95ac323emg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cfn.ncc",
+            "certificate_hash": "81c6c8cd96df84666ecef28cb173800ff6870122"
+          }
+        },
+        {
+          "client_id": "505358403838-7411chcqqv70jctce95lmtg5tk9bdesq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgSwNVR_tduKw1_yd3Sq7GDHYsUAE2NvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505358403838-7411chcqqv70jctce95lmtg5tk9bdesq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "505358403838-re2ennd9tg1ho18r9hbeo0smeb24rip8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cfn.ncc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
