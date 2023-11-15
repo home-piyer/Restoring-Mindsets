@@ -1,16 +1,3 @@
-# ncc
+# Restoring Mindsets
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Restoring Mindsets is a Novi Community Coalition wellness app that provides users with a toolbox of mental wellness tools they can use in moments of need. Whether you're feeling stressed, just need a little break, or want to take a moment to reflect, Restoring Mindsets has it all. Restoring Mindsets includes a check-in (emotion detection), customizable and suggested coping plans, accessible hotlines, and other activities, such as a journal and guided meditation, to maintain your mental well-being. 
